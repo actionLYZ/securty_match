@@ -1,0 +1,21 @@
+<RCC>
+<qresource>
+	<file>background.png</file>
+	<file>upbackground.png</file>
+	<file>whitebackground.png</file>
+	<file>protectIcon.png</file>
+	<file>wallIcon.png</file>
+	<file>monitorIcon.png</file>
+	<file>reportIcon.png</file>
+	<file>artword.png</file>
+	<file>homeIcon.png</file>
+	<file>testIcon.png</file>
+	<file>dynamicIcon.png</file>
+	<file>staticIcon.png</file>
+	<file>staticIcon1.png</file>
+	<file>wordIcon.png</file>
+	<file>light.png</file>
+	<file>birdIcon.png</file>
+	<file>webGraph.png</file>
+</qresource>
+</RCC>

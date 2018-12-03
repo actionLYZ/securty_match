@@ -1,0 +1,14 @@
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+QueryPerformanceCounter: 检索当前值高分辨率性能计数器
+GetStartupInfoA: 检查启动信息,可检查是否被调试
+HeapCreate: 在堆中创建一块内存
+FlsAlloc: 
+FlsSetValue: 设置FLS中索引所指的值
+GetCommandLineA: 获得指向当前命令行缓冲区的指针,无参数
+GetEnvironmentStringsW: 返回指向环境字串的一个内存块的地址
+FreeEnvironmentStringsW: 释放指定的环境字串块
+SetUnhandledExceptionFilter: 在异常处理列顶部中加入一个异常处理程序
+GetClipboardFormatNameW返回值: 0x00000000
+CloseDesktop: 
+GetOutlineTextMetricsW: 接收与TureType字体内部特征有关的详细信息
+GetLayout: 获得容器的布局管理器

@@ -1,0 +1,2 @@
+cd G:\Tecent\file\893432077\FileRecv\fc\fc
+tensorboard --logdir logs/

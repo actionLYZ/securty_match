@@ -1,0 +1,1003 @@
+     
+返回地址: 00409BC9  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FF7C
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 00409BF1  函数名称: QueryPerformanceCounter(KERNEL32.dll) 
+QueryPerformanceCounter: 检索当前值高分辨率性能计数器
+          lpPerformanceCount=0x0018FF74
+QueryPerformanceCounter返回值: 0x00000001
+     
+返回地址: 00408140  函数名称: GetStartupInfoA(KERNEL32.dll) 
+GetStartupInfoA: 检查启动信息,可检查是否被调试
+          lpStartupInfo=0x0018FF20
+GetStartupInfoA返回值: 0x0018FF20
+     
+返回地址: 00409989  函数名称: HeapCreate(KERNEL32.dll) 
+HeapCreate: 在堆中创建一块内存
+          flOptions=0x00000000
+          dwInitialSize=0x00001000
+          dwMaximumSize=0x00000000
+HeapCreate返回值: 0x02630000
+     
+返回地址: 00409912  函数名称: FlsAlloc(KERNEL32.dll) 
+FlsAlloc: 
+          lpCallback=0x004096B2
+FlsAlloc返回值: 0x00000005
+     
+返回地址: 00409945  函数名称: FlsSetValue(KERNEL32.dll) 
+FlsSetValue: 设置FLS中索引所指的值
+          dwFlsIndex=0x00000005
+          lpFlsData=0x026307D0
+FlsSetValue返回值: 0x00000001
+     
+返回地址: 0040914C  函数名称: GetStartupInfoA(KERNEL32.dll) 
+GetStartupInfoA: 检查启动信息,可检查是否被调试
+          lpStartupInfo=0x0018FEA4
+GetStartupInfoA返回值: 0x0018FEA4
+     
+返回地址: 004081D5  函数名称: GetCommandLineA(KERNEL32.dll) 
+GetCommandLineA: 获得指向当前命令行缓冲区的指针,无参数
+GetCommandLineA返回值: 0x005A2BB8
+     
+返回地址: 0040901A  函数名称: GetEnvironmentStringsW(KERNEL32.dll) 
+GetEnvironmentStringsW: 返回指向环境字串的一个内存块的地址
+GetEnvironmentStringsW返回值: 0x005C1110
+     
+返回地址: 004090CC  函数名称: FreeEnvironmentStringsW(KERNEL32.dll) 
+FreeEnvironmentStringsW: 释放指定的环境字串块
+          lpszEnvironmentBlock=0x005C1110
+FreeEnvironmentStringsW返回值: 0x00000001
+     
+返回地址: 004085E8  函数名称: SetUnhandledExceptionFilter(KERNEL32.dll) 
+SetUnhandledExceptionFilter: 在异常处理列顶部中加入一个异常处理程序
+          lpTopLevelExceptionFilter=0x0040859B
+SetUnhandledExceptionFilter返回值: 0x1002D4F8
+     
+返回地址: 0040141C  函数名称: GetClipboardFormatNameW(USER32.dll) 
+GetClipboardFormatNameW返回值: 0x00000000
+     
+返回地址: 00402B55  函数名称: CloseDesktop(USER32.dll) 
+CloseDesktop: 
+          hDesktop=0x00000000
+CloseDesktop返回值: 0x00000000
+     
+返回地址: 004055AD  函数名称: GetOutlineTextMetricsW(GDI32.dll) 
+GetOutlineTextMetricsW: 接收与TureType字体内部特征有关的详细信息
+          hDC=0x00000000
+          cbData=0x00000000
+          lpOTM=0x00000000
+GetOutlineTextMetricsW返回值: 0x00000000
+     
+返回地址: 004019E7  函数名称: GetLayout(GDI32.dll) 
+GetLayout: 获得容器的布局管理器
+          hdc=0x00000000
+GetLayout返回值: 0xFFFFFFFF
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+返回地址: 0040807C  函数名称: GetSystemTimeAsFileTime(KERNEL32.dll) 
+GetSystemTimeAsFileTime: 得到当前系统日期和时间
+          lpSystemTimeAsFileTime=0x0018FB94
+GetSystemTimeAsFileTime返回值: 0x01D39A96
+     
+更多信息请查看输出的txt文件

@@ -1,0 +1,19 @@
+     
+返回地址: 004011E8  函数名称: SetUnhandledExceptionFilter(KERNEL32.dll) 
+SetUnhandledExceptionFilter: 在异常处理列顶部中加入一个异常处理程序
+          lpTopLevelExceptionFilter=0x00401000
+SetUnhandledExceptionFilter返回值: 0x1002D4F8
+     
+返回地址: 0040185B  函数名称: GetCommandLineA(KERNEL32.dll) 
+GetCommandLineA: 获得指向当前命令行缓冲区的指针,无参数
+GetCommandLineA返回值: 0x00893708
+     
+返回地址: 004038FA  函数名称: FindFirstFileA(KERNEL32.dll) 
+FindFirstFileA: 根据文件名查找文件
+          lpFileName="C:\Users\AI\Documents\Projects\BabyMal\*"
+          lpFindFileData=0x0028FAF0
+FindFirstFileA返回值: 0x0089FBD0
+     
+返回地址: 00401297  函数名称: ExitProcess(KERNEL32.dll) 
+ExitProcess: 退出进程
+          uExitCode=0x0000
